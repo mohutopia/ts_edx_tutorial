@@ -1,2 +1,3 @@
-# ts_edx_tutorial
-Learning the basics of TypeScript
+# TYPESCRIPT
+
+## Online tutorial to learn the basics of TypeScript 2 programming language
